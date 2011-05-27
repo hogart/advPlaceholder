@@ -1,0 +1,11 @@
+.ui-advPlaceholder-wrapper {
+	position: relative !important;
+}
+	.ui-advPlaceholder-wrapper .ui-advPlaceholder-placeholder {
+		position: absolute;
+		top: 0;
+		left: 0;
+    }
+    .ui-advPlaceholder-wrapper__hide .ui-advPlaceholder-placeholder {
+        display: none;
+    }
